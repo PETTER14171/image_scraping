@@ -1,4 +1,4 @@
-<h1>🖼️ Descarga de Imágenes desde un Archivo HAR</h1>
+<h1>🖼️ Descarga de Imágenes desde un Archivo HAR 🖼️</h1>
 
 <p>Este proyecto en Python es para descargar imágenes de un sitio web utilizando archivos HAR. Este proyecto permite extraer automáticamente todas las imágenes desde un archivo .har generado por DevTools del navegador, facilitando la descarga masiva de imágenes.</p>
 
